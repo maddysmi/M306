@@ -146,7 +146,7 @@ function checkPassword(id, input1, input2) {
           isNotValid: false,
           msg: showSuccess(id)
       }
-      
+
       //alert("I love u it works.  ")
     }
     return result;
